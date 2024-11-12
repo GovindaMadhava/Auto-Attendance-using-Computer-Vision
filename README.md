@@ -1,5 +1,8 @@
 # AUTOMATIC-ATTENDANCE-SYSTEM
-Packages to install: open cv2 package
+Developed an ML model to detect faces from a real-time video stream, recognize individuals using a pre-trained model, and record attendance using Computer Vision.
+The accuracy and loss for test data is: 93.87755393981934 and 0.49356546998023987
+
+Packages required: opencv2 
 
 Follow the steps below for execution:
 1. In the "datacollection.py" file, mention name of person who's picture needs to be added to the attendance registry. 
@@ -17,5 +20,3 @@ We have made use of Convolutional Neural Networks for this purpose.
 6. Finally run the "attendance.py" file.
 
 7. Check the output of the model in "Attendance.csv" file.
- 
-    
