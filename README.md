@@ -1,5 +1,5 @@
 # AUTO-ATTENDANCE USING COMPUTER VISION AND CNN
-Developed an ML model using Computer Vision and Convolutional Neural Networks (CNNs) to detect faces from a real-time video stream, recognize individuals using a pre-trained model, and record attendance using Computer Vision.
+Developed an ML model using Computer Vision and Convolutional Neural Networks (CNNs) to detect faces from a real-time video stream, recognize individuals using a pre-trained model, and record attendance.
 
 Obtained an acuracy of 93.87755393981934 on test dataset
 
